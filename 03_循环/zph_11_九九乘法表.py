@@ -9,7 +9,7 @@ while row <= 9:
 
     while col <= row:
         # print("%d" % col)
-        print("%d * %d = %d   " % (col,row,(col*row)),end="")
+        print("%d * %d = %d" % (col,row,col * row), end="\t")
 
         col += 1
 
