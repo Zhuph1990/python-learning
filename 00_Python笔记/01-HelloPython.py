@@ -1,5 +1,0 @@
-print("Hello python")
-print("Hello world")
-print("Hello hello")
-print("梅西 金球奖")
-print("029--000045")
